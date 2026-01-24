@@ -1,3 +1,7 @@
+// WAP to create a bank account class with private variables, account number,
+// account holder name, balance and the public methods deposite,
+// withdrawl, getbalance, getAccountDetails.
+
 class Bank{
     private String AccountNumber;
     private String HolderName;
