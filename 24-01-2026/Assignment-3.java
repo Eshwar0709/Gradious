@@ -1,3 +1,4 @@
+//Abstraction
 abstract class BankAccount{
     public double balance;
     
