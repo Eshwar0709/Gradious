@@ -19,3 +19,4 @@ public class Main
 	}
 }
 //output:3
+//example: 186 count of digits=3 so don't increment count and 4531 count of digits=4 so increment count by 1
